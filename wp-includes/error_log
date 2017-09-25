@@ -1,0 +1,4 @@
+[22-Jan-2017 04:47:38 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/smaa7688/public_html/wp-includes/registration-functions.php on line 7
+[22-Jan-2017 04:47:39 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/smaa7688/public_html/wp-includes/registration-functions.php on line 7
+[10-Mar-2017 06:24:12 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/smaa7688/public_html/wp-includes/rss-functions.php on line 8
+[21-Mar-2017 02:47:53 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/smaa7688/public_html/wp-includes/registration-functions.php on line 7

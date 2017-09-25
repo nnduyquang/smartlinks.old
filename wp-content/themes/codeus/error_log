@@ -1,0 +1,12 @@
+[01-Apr-2017 04:33:01 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/smaa7688/public_html/wp-content/themes/codeus/404.php on line 8
+[04-Apr-2017 01:34:10 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/smaa7688/public_html/wp-content/themes/codeus/404.php on line 8
+[08-Apr-2017 15:34:39 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/smaa7688/public_html/wp-content/themes/codeus/404.php on line 8
+[11-Apr-2017 02:42:05 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/smaa7688/public_html/wp-content/themes/codeus/404.php on line 8
+[07-Aug-2017 06:52:49 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/smaa7688/public_html/wp-content/themes/codeus/404.php on line 8
+[07-Aug-2017 06:52:49 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/smaa7688/public_html/wp-content/themes/codeus/404.php on line 8
+[14-Aug-2017 16:20:55 UTC] PHP Fatal error:  Call to undefined function codeus_get_option() in /home/smaa7688/public_html/wp-content/themes/codeus/header.php on line 2
+[14-Aug-2017 16:20:55 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/smaa7688/public_html/wp-content/themes/codeus/404.php on line 8
+[14-Aug-2017 16:20:55 UTC] PHP Fatal error:  Call to undefined function codeus_get_option() in /home/smaa7688/public_html/wp-content/themes/codeus/header.php on line 2
+[14-Aug-2017 16:20:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/smaa7688/public_html/wp-content/themes/codeus/404.php on line 8
+[17-Aug-2017 17:37:08 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/smaa7688/public_html/wp-content/themes/codeus/index.php on line 8
+[17-Aug-2017 17:37:08 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/smaa7688/public_html/wp-content/themes/codeus/index.php on line 8
